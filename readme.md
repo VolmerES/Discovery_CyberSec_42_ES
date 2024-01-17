@@ -19,19 +19,19 @@
 
 1. La primera parte consta de recolectar información acerca de un usuario mediante herramientas OSINT:
 
-[Cellule Tyto](Discovery%20CyberSecurity%MD/Cellule%20Tyto%204937379a84604da8968727ea9e46260c.md)
+[Cellule Tyto](Discovery%20CyberSecurity%20MD/Cellule%20Tyto%204937379a84604da8968727ea9e46260c.md)
 
 ---
 
 1. La segunda parte consta de buscar vulnerabilidades para acceder a determinados directorios desde la página web, y conseguir la bandera que en ese directorio se encuentra (CTF).
 
-[****Cellule Weasel****](Discovery%20CyberSecurity%MD/Cellule%20Weasel%20aa7efed82898439cb9751c14fce21cde.md)
+[****Cellule Weasel****](Discovery%20CyberSecurity%20MD/Cellule%20Weasel%20aa7efed82898439cb9751c14fce21cde.md)
 
 ---
 
 1. La tercera y última parte de esta Discovery Ciberseguridad tendrá como objetivo aprender sobre criptografía básica, desde encriptados hasta hashes.
 
-[Cellule Gecko](Discovery%20CyberSecurity%MD/Cellule%20Gecko%209e393c6d3ab24ff7acdce70652c1e3ec.md)
+[Cellule Gecko](Discovery%20CyberSecurity%20MD/Cellule%20Gecko%209e393c6d3ab24ff7acdce70652c1e3ec.md)
 
 ---
 
