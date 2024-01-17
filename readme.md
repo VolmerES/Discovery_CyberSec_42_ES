@@ -1,11 +1,13 @@
 # Discovery CyberSecurity
 
 <aside>
+  
 ⚠️ Esta serie de proyectos forman parte de una nueva discovery de la escuela 42 Network, la cual esta en fase beta (en el momento de la creación de este doc). Ha sido realizada en 42 Madrid. Esto conlleva y da lugar a errores en su estructuración y subjects (enunciados).
 
 </aside>
 
 <aside>
+  
 ‼️ Estos proyectos han sido ideados de manera a ser una introducción en materia de ciberseguridad. De manera a que cualquier persona con conocimientos muy bajos en el campo pueda iniciarse en el.
 
 </aside>
